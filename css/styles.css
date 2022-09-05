@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #ed6651;
+}
+
+body {
+    background-color: #faecde;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#conteudo {
+    max-width: 960px;
+    padding: 2em;
+}
+
+p+p {
+    margin-top: 3em;
+}
